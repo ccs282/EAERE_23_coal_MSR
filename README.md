@@ -8,4 +8,6 @@ In the "LETS_GO.do"-file, you can also change the main event study parameters, s
 
 Having run the main file, you can separately run the "MSFE.do"-file, which executes the forecasting performance calculations.
 
+In the coming weeks, I will either make the Stata code more readable and/or write a cleaner R code.
+
 Enjoy!
